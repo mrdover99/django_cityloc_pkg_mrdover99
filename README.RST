@@ -11,9 +11,7 @@ Installation
 1. Add "citylocations" to your INSTALLED_APPS setting in settings.py:
     INSTALLED_APPS = [
         ...
-        
         'citylocations',
-
     ]
 
 2. Include the citylocations URLconf in your project urls.py like this::
